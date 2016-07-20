@@ -22,3 +22,7 @@ navigation:
     url: 'http://www.thestyledivision.com/'
     name: Style Division
     type: external
+  - id: 'http://www.thestyledivision.com/visual-creative-journal'
+    url: 'http://www.thestyledivision.com/visual-creative-journal'
+    name: CREATIVE DIVISION
+    type: external
