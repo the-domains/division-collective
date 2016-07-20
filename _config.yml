@@ -17,3 +17,8 @@ author:
   name: Anton Dee
   url: 'http://www.thestyledivision.com/'
 name: Division Collective
+navigation:
+  - id: 'http://www.thestyledivision.com/'
+    url: 'http://www.thestyledivision.com/'
+    name: Style Division
+    type: external
