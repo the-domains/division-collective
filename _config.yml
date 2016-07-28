@@ -18,15 +18,13 @@ author:
   url: 'http://www.thestyledivision.com/'
 name: Division Collective
 navigation:
-  - id: 'http://www.thestyledivision.com/'
+  - name: STYLE DIVISION
     url: 'http://www.thestyledivision.com/'
-    name: STYLE DIVISION
     type: external
-  - id: 'http://www.thestyledivision.com/future-technology-magazine-blog'
+  - name: TECH DIVISION
     url: 'http://www.thestyledivision.com/future-technology-magazine-blog'
-    name: TECH DIVISION
     type: external
-  - id: 'http://www.thestyledivision.com/visual-creative-journal'
+  - name: CREATIVE DIVISION
     url: 'http://www.thestyledivision.com/visual-creative-journal'
-    name: CREATIVE DIVISION
     type: external
+description: Test
