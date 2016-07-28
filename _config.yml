@@ -21,11 +21,11 @@ navigation:
   - name: STYLE DIVISION
     url: 'http://www.thestyledivision.com/'
     type: external
-  - name: TECH DIVISION
-    url: 'http://www.thestyledivision.com/future-technology-magazine-blog'
-    type: external
   - name: CREATIVE DIVISION
     url: 'http://www.thestyledivision.com/visual-creative-journal'
+    type: external
+  - name: TECH DIVISION
+    url: 'http://www.thestyledivision.com/future-technology-magazine-blog'
     type: external
 title: Test
 description: Test
