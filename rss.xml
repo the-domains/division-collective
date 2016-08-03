@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Test]]></title>
-        <description><![CDATA[Test]]></description>
+        <title><![CDATA[DIVISION COLLECTIVE]]></title>
+        <description><![CDATA[DIVISION COLLECTIVE]]></description>
         <link>https://thegrid.ai/division-collective/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 19:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 17:25:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/division-collective/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[EVENT REPORT | FASHIONTECH AND THE USER EXPERIENCE - Interlaced]]></title>
+            <description><![CDATA[<article><h1>EVENT REPORT | FASHIONTECH AND THE USER EXPERIENCE - Interlaced</h1><p>Image credit: Brooke Roberts Wearables London and INTERLACED came together this month to host an event exploring the intersection of fashion and technology to enhance user experiences. On Wednesday evening, we gathered in the stunning Kingsway Hall Hotel for an inspiring discussion on the latest in the fashiontech space.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f4c11fefcf80f966066d29cbb880a471/noop.jpg?input=http%3A%2F%2Finterlaced.co%2Fwp-content%2Fuploads%2F2016%2F07%2FHuman-sensor-Manchester-Piccadilly-1024x683.jpg"></article>]]></description>
+            <link>http://interlaced.co/project/event-report-fashiontech-user-experience/</link>
+            <guid isPermaLink="false">b071695b-ed6d-4302-b359-9d4130b28d5c</guid>
+            <pubDate>Wed, 03 Aug 2016 17:25:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New Faces 03]]></title>
-            <description><![CDATA[<article><h1>New Faces 03</h1><p>Reckon I'm going to become a hoarder in my older years as I can't seem to throw anything away. I feel that every photo and screenshot I take needs it's own special folder as it's bound to come in use eventually.</p><img src="http://www.thestyledivision.com/wp-content/uploads/2016/07/new-faces-style-division-6.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>New Faces 03</h1><p>Reckon I'm going to become a hoarder in my older years as I can't seem to throw anything away. I feel that every photo and screenshot I take needs it's own special folder as it's bound to come in use eventually.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/497cce9e6be39b9117401b694682e3f8/noop.jpg?input=http%3A%2F%2Fwww.thestyledivision.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fnew-faces-style-division-6.jpg"></article>]]></description>
             <link>http://www.thestyledivision.com/new-faces-03</link>
             <guid isPermaLink="false">28557a43-1950-4d25-a8d2-e090dc682341</guid>
             <pubDate>Sun, 31 Jul 2016 19:25:47 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Visit Grand Teton in this 8K Timelapse</h1><p>In 2014, brother filmmakers Will and Jim Pattiz launched their More Than Just Parks project, an ambitious effort to celebrate America's 59 National Parks by creating a visual experience at each one. Their latest film showcases Grand Teton National Park in Wyoming in 8K resolution.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2579c13e2208f9afc6f4c1929d0f514c/noop.jpg?input=http%3A%2F%2Fpetapixel.com%2Fassets%2Fuploads%2F2016%2F07%2Fgrandtetonfeat.jpg"></article>]]></description>
             <link>http://petapixel.com/2016/07/15/visit-grand-teton-8k-timelapse/</link>
             <guid isPermaLink="false">43d50ad0-1c17-4659-bf15-2c45639c9edc</guid>
-            <pubDate>Tue, 19 Jul 2016 15:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Coolest Tech at SXSW Interactive This Year]]></title>
-            <description><![CDATA[<article><h1>The Coolest Tech at SXSW Interactive This Year</h1><p>Everything from lifelike humanoids to VR-recording apps at SXSW Interactive 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914b8f2c193ba23977d43dd2927ac45c36498fd3.jpg"></article>]]></description>
-            <link>https://www.thrillist.com/tech/nation/the-coolest-tech-at-sxsw-interactive-2016/tech</link>
-            <guid isPermaLink="false">ec7c0534-edc2-41cf-bbd7-856cc8be2149</guid>
             <pubDate>Tue, 19 Jul 2016 15:45:29 GMT</pubDate>
         </item>
     </channel>
