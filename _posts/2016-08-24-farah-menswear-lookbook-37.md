@@ -29,8 +29,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.thestyledivision.com/farah-menswear-london-lookbook'
 title: Farah Menswear // Lookbook 37
-datePublished: '2016-08-24T16:04:44.431Z'
-dateModified: '2016-08-24T16:04:16.065Z'
+datePublished: '2016-08-24T18:18:18.052Z'
+dateModified: '2016-08-24T18:17:29.408Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-24-farah-menswear-lookbook-37.md
